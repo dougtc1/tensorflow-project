@@ -1,0 +1,1 @@
+CREATE INDEX player_ID_ANIO ON Pitching(playerId, yearID);
